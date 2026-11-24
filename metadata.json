@@ -1,0 +1,6 @@
+{
+  "name": "Clásico Deportivo 80s Ultra Realista 3D",
+  "description": "Clásico Deportivo 80s Ultra Realista 3D",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
